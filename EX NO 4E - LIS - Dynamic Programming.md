@@ -23,8 +23,8 @@ Print the maximum LIS length as the final result.
 ```
 
 Program to implement Reverse a String
-Developed by: KISHAN SHREE B
-Register Number:212223100022
+Developed by: DEEPAK
+Register Number:212223040031
 import java.util.*;
 
 public class LongestIncreasingSubsequence {
