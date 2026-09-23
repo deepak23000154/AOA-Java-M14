@@ -26,8 +26,8 @@ Otherwise, print dp[amount], the minimum number of coins needed to make the give
 
 ## Program:
 ```
-Developed by: KISHAN SHREE B
-Register Number:212223100022
+Developed by: DEEPAK
+Register Number:212223040031
 import java.util.*;
 
 public class Solution {
